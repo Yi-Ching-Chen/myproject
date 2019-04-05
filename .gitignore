@@ -1,0 +1,9 @@
+.gradle/
+.idea/workspace.xml
+out/
+.classpath
+.project
+.settings/
+bin/
+.vscode/
+
